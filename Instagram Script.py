@@ -6,8 +6,8 @@ import time
 
 
 class DevBhatt:
-    username = 'dev1398'
-    password = 'AvABhFhktNqoYLBqgv8qevhx'
+    username = 'Username'
+    password = 'Password'
 
     hashtags = [
         'wanderlust', 'travels', 'travel', 'exploring',
